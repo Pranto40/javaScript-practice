@@ -5,17 +5,22 @@
     const number = 38;
     const floatNumber = 40.10;
     // Number(), parseFloat(), parseInt(), NaN
+    // Hexadecimal number (16) => const hexadecimal = 0X
+    // Octal number (8) => const octal = 0
 
 // 2. string ( সকল ধরনের text )
     const string1 = 'string';
     const string2 = "string";
     const string3 = `string`;
-    // string() = conver to string
+    // String() = conver to string, toString(),
 
 // 3. boolean
+    // Boolean()
     // true, false
 // 4. undefind
 // 5. null
+
+// Falsy Values ("", 0, undefined null, NaN)
 
 
 // object ডাটা টাইপ যেটা আমরা নিজেরা তৈরি করব জাভাস্ক্রিপ্ট keyword এর মাধ্যমে
