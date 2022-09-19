@@ -45,6 +45,10 @@
 // console.log(number1 > number2 && number1 < number2); (false)
 // console.log(number1 > number2 || number1 < number2); (true)
 
+// ! => true থাকলে false আর false থাকলে ture return করে 
+// const check = !(number1 > number2)
+// console.log(check);
+
 // Bitwise operators
 // &
 // |

@@ -17,7 +17,7 @@
 //     console.log(number + ' The number is odd');
 // }
 
-// switch condition
+// switch statement
 switch (key) {
     case value:
         
@@ -46,5 +46,12 @@ switch (key) {
 // }else if (today === 6) {
 //     console.log("saturday");
 // }
+
+
+// ternary operator => condition ? "true site" : "false site"
+
+// const number = 41;
+// const result = number % 2 === 0 ? "even number" : "odd number";
+// console.log(result);
 
 
