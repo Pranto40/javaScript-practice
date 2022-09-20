@@ -8,7 +8,7 @@
     // Hexadecimal number (16) => const hexadecimal = 0X
     // Octal number (8) => const octal = 0
 
-// 2. string ( সকল ধরনের text )
+// 2. string ( সকল ধরনের text, সিঙ্গেল কোটেশন অথবা ডাবল কোটেশন এর ভিতরে যেটাই থাকবে সেটাই string )
     const string1 = 'string';
     const string2 = "string";
     const string3 = `string`;
