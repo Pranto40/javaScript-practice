@@ -20,7 +20,7 @@
 // 4. undefind
 // 5. null
 
-// Falsy Values ("", 0, undefined null, NaN)
+// Falsy Values ("", 0, false, undefined, null, NaN)
 
 
 // object ডাটা টাইপ যেটা আমরা নিজেরা তৈরি করব জাভাস্ক্রিপ্ট keyword এর মাধ্যমে
