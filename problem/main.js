@@ -48,3 +48,30 @@
 //     return array.indexOf(value) !== index
 // })
 // console.log(duplicate);
+
+// 6. তিনটি সংখ্যার মধ্যে সবচেয়ে বড় সংখ্যা কোনটি 
+
+// const number1 = 20
+// const number2 = 30
+// const number3 = 10
+
+// if (number1 > number2) {
+//     if(number1 > number3){
+//         console.log('number1 is big');
+//     }
+// }else if (number2 > number1) {
+//     if (number2 > number3){
+//         console.log('number2 is big');
+//     }
+// } console.log('number3 is big');
+
+
+//  7. 1 থেকে 100 এর মধ্যে জোড় সংখ্যা
+
+// const events = []
+// for(let i = 1; i <= 100; i++){
+//     if (i % 2 === 0) {
+//         events.push(i)
+//     }
+// }
+// console.log(events);
